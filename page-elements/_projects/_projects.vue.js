@@ -6,7 +6,7 @@ export default {
 	},
 
 	template:
-	`<div class="projects">
+	`<section class="projects">
 		<sectionTitle
 			class = 'projects__title'
 			number = '02'
@@ -23,5 +23,5 @@ export default {
 				<img class="projects__item" src="images/sixth planet.png" alt="sixth planet">
 			</div>
 		</div>
-	</div>`
+	</section>`
 }
