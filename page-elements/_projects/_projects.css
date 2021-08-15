@@ -1,0 +1,65 @@
+@import url("../../blocks/_section-title/_section-title.vue.js");
+@import url("../../blocks/_wrapper/_wrapper.vue.js");
+.projects {
+  padding: 120px 0;
+  background-image: url("images/projects background.png");
+  background-size: cover;
+  min-height: 1086px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.projects__title {
+  top: -500px;
+  width: auto;
+  right: calc(calc(-100% - 1170px) / 2); }
+  .projects__title .section-title__title {
+    top: 215px;
+    left: 145px; }
+
+@media (max-width: 1800px) {
+  .projects__title {
+    left: calc(100% - 299px); } }
+
+@media (max-width: 595px) {
+  .projects__title {
+    top: -800px; } }
+
+.projects__inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.projects__content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr; }
+
+.projects__item {
+  display: block;
+  padding: 45px 40px; }
+
+@media (max-width: 1200px) {
+  .projects__item {
+    padding: 45px 13%; } }
+
+@media (max-width: 920px) {
+  .projects__content {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr; } }
+
+@media (max-width: 590px) {
+  .projects__content {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr; } }
