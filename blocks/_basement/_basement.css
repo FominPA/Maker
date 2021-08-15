@@ -1,0 +1,15 @@
+@import url("../_logo/_logo.css");
+.basement {
+  text-align: center; }
+
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 38px auto 21px; }
+
+.menu__item {
+  margin: 0px 11.5px; }

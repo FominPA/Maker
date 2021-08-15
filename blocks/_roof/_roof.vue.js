@@ -1,9 +1,13 @@
+import logo from '../_logo/_logo.vue.js';
+
 export default {
+	components: {
+		logo,
+	},
+
 	template:
 	`<div class="roof">
-		<a href="index.html" class="logo">
-			<img src="images/logo.png" alt="logo">
-		</a>
+		<logo></logo>
 		<a href="#" class="burger">
 			<div class="burger__hl"></div>
 			<div class="burger__hl"></div>
