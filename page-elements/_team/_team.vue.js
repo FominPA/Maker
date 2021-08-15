@@ -18,7 +18,7 @@ export default {
 		<div class="team__content">
 			<person
 				class = 'team__person_p1'
-				imageUrl = 'images/Bryson.png'
+				imageUrl = 'page-elements/_team/images/Bryson.png'
 				imageAlt = 'Bryson'
 				name = 'George M. Bryson'
 				position = 'Founder & Group CEO'
@@ -28,7 +28,7 @@ export default {
 			></person>
 			<person
 				class = 'team__person_p2'
-				imageUrl = 'images/Gilmore.png'
+				imageUrl = 'page-elements/_team/images/Gilmore.png'
 				imageAlt = 'Gilmore'
 				name = 'Kenneth G. Gilmore'
 				position = 'Bussiness Manager'
@@ -36,7 +36,7 @@ export default {
 			></person>
 			<person
 				class = 'team__person_p3'
-				imageUrl = 'images/Main.png'
+				imageUrl = 'page-elements/_team/images/Main.png'
 				imageAlt = 'Main'
 				name = 'Richard C. Main'
 				position = 'Marketing & Communication Manager'
@@ -44,7 +44,7 @@ export default {
 			></person>
 			<person
 				class = 'team__person_p4'
-				imageUrl = 'images/Flynn.png'
+				imageUrl = 'page-elements/_team/images/Flynn.png'
 				imageAlt = 'Flynn'
 				name = 'Judith R. Flynn'
 				position = 'International Executive Director'
@@ -52,7 +52,7 @@ export default {
 			></person>
 			<person
 				class = 'team__person_p5'
-				imageUrl = 'images/Thompson.png'
+				imageUrl = 'page-elements/_team/images/Thompson.png'
 				imageAlt = 'Thompson'
 				name = 'Donald S. Thompson'
 				position = 'Finance Director'

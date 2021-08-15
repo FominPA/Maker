@@ -15,12 +15,12 @@ export default {
 
 		<div class="projects__inner wrapper">
 			<div class="projects__content">
-				<div class="projects__item"><img src="images/Strategy.png" alt="Strategy"></div>
-				<div class="projects__item"><img src="images/Headphones.png" alt="Headphones"></div>
-				<div class="projects__item"><img src="images/Badminton.png" alt="Badminton"></div>
-				<div class="projects__item"><img src="images/and.png" alt="and"></div>
-				<div class="projects__item"><img src="images/Sun Stone.png" alt="Sun Stone"></div>
-				<div class="projects__item"><img src="images/sixth planet.png" alt="sixth planet"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/Strategy.png" alt="Strategy"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/Headphones.png" alt="Headphones"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/Badminton.png" alt="Badminton"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/and.png" alt="and"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/Sun Stone.png" alt="Sun Stone"></div>
+				<div class="projects__item"><img src="page-elements/_projects/images/sixth planet.png" alt="sixth planet"></div>
 			</div>
 		</div>
 	</section>`

@@ -13,7 +13,7 @@ export default {
 			title = 'mission'
 		></sectionTitle>
 
-		<img class="mission__image" src="images/mission 2.png" alt="mission">
+		<img class="mission__image" src="page-elements/_mission/images/mission 2.png" alt="mission">
 
 		<div class="mission__content">
 			<p class="mission__paragraph">Is allowance instantly strangers applauded discourse so. Separate entrance welcomed sensible laughing why one moderate shy. We seeing piqued garden he. As in merry at forth least ye stood.</p>
