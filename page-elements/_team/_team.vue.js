@@ -8,7 +8,7 @@ export default {
 	},
 
 	template:
-	`<section class="team">
+	`<section class="team wrapper">
 		<sectionTitle
 			class = 'team__title'
 			number = '03'

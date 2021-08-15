@@ -15,12 +15,12 @@ export default {
 
 		<div class="projects__inner wrapper">
 			<div class="projects__content">
-				<img class="projects__item" src="images/Strategy.png" alt="Strategy">
-				<img class="projects__item" src="images/Headphones.png" alt="Headphones">
-				<img class="projects__item" src="images/Badminton.png" alt="Badminton">
-				<img class="projects__item" src="images/and.png" alt="and">
-				<img class="projects__item" src="images/Sun Stone.png" alt="Sun Stone">
-				<img class="projects__item" src="images/sixth planet.png" alt="sixth planet">
+				<div class="projects__item"><img src="images/Strategy.png" alt="Strategy"></div>
+				<div class="projects__item"><img src="images/Headphones.png" alt="Headphones"></div>
+				<div class="projects__item"><img src="images/Badminton.png" alt="Badminton"></div>
+				<div class="projects__item"><img src="images/and.png" alt="and"></div>
+				<div class="projects__item"><img src="images/Sun Stone.png" alt="Sun Stone"></div>
+				<div class="projects__item"><img src="images/sixth planet.png" alt="sixth planet"></div>
 			</div>
 		</div>
 	</section>`

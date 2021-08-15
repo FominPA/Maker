@@ -3,7 +3,7 @@ import roof from '../../blocks/_roof/_roof.vue.js'
 export default {
 	components: {
 		roof,
-	}
+	},
 
 	template:
 	`<header class="header">

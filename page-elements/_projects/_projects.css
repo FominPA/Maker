@@ -46,12 +46,12 @@
   -ms-grid-columns: 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr; }
 
-.projects__item {
+.projects__item > img {
   display: block;
   padding: 45px 40px; }
 
 @media (max-width: 1200px) {
-  .projects__item {
+  .projects__item > img {
     padding: 45px 13%; } }
 
 @media (max-width: 920px) {

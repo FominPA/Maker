@@ -35,11 +35,11 @@
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
-.projects__item { 
+.projects__item > img { 
 	display: block;
 	padding: 45px 40px; 
 }
 
-@media (max-width: 1200px) { .projects__item { padding: 45px 13%; } }
+@media (max-width: 1200px) { .projects__item > img { padding: 45px 13%; } }
 @media (max-width: 920px) { .projects__content { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 590px) { .projects__content { grid-template-columns: 1fr; } }
