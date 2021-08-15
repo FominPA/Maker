@@ -1,0 +1,21 @@
+.roof {
+  position: relative;
+  top: 82px;
+  left: 0;
+  width: 100%;
+  max-width: 1170px;
+  margin: auto;
+  text-align: center;
+  z-index: 1; }
+
+.burger {
+  display: inline-block;
+  position: relative;
+  left: calc(50% - 50px);
+  top: calc(-41px - calc(23px / 2)); }
+
+.burger__hl {
+  width: 50px;
+  height: 4px;
+  background-color: #fff;
+  margin: 5px auto; }

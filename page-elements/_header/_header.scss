@@ -1,0 +1,22 @@
+@import url('../../blocks/_roof/_roof.css');
+@import url('../../blocks/_wrapper/_wrapper.css');
+
+.header {
+	background-image: url('images/Header background.png');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	text-align: center;
+	padding: 120px 0;
+	padding-top: 0;
+}
+
+.header__title {
+	display: inline-block;
+	padding: calc(50vh - 45px) 0;
+	margin: auto;
+}
+
+@media (max-width: 420px) {
+	.header__title { font-size: 48px; }
+}
