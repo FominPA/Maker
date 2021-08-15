@@ -1,0 +1,53 @@
+@import url("../../blocks/_section-title/_section-title.css");
+@import url("../../blocks/_wrapper/_wrapper.css");
+@import url("../../blocks/_basement/_basement.css");
+.emotions {
+  background-image: url("images/Emotions background.png");
+  background-size: cover;
+  min-height: 1200px;
+  padding: 70px 0; }
+
+.emotions__inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  min-height: 1200px; }
+
+.emotions__title {
+  margin-top: -110px;
+  margin-bottom: 0; }
+  .emotions__title .section-title__number {
+    position: relative;
+    left: calc(50% - 149px); }
+  .emotions__title .section-title__title {
+    top: calc(calc(calc(371px + 40px) - 85px) / 2);
+    left: calc(50% - 49px); }
+
+.emotions__content {
+  width: 50%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.emotions__content-title {
+  font-size: 72px;
+  letter-spacing: .8px;
+  margin-bottom: 59px; }
+
+.emotions__content-paragraph {
+  font-size: 19px;
+  margin-bottom: 20px; }
+
+@media (max-width: 1000px) {
+  .emotions__content {
+    width: 500px;
+    max-width: calc(100% - 30px); }
+  .emotions__content-title {
+    font-size: 64px; } }

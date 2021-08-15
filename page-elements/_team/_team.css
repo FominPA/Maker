@@ -1,5 +1,5 @@
-@import url("../../blocks/_section-title/_section-title.vue.js");
-@import url("../../blocks/_wrapper/_wrapper.vue.js");
+@import url("../../blocks/_section-title/_section-title.css");
+@import url("../../blocks/_wrapper/_wrapper.css");
 .team__title .section-title__title {
   top: calc(310px / 2);
   left: 107px; }

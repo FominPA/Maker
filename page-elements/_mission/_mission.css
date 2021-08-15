@@ -1,5 +1,5 @@
-@import url("../../blocks/_section-title/_section-title.vue.js");
-@import url("../../blocks/_wrapper/_wrapper.vue.js");
+@import url("../../blocks/_section-title/_section-title.css");
+@import url("../../blocks/_wrapper/_wrapper.css");
 .mission {
   padding: 120px 0;
   position: relative; }
