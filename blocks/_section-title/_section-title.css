@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Yantramanav:wght@900&display=swap");
+.section-title {
+  position: relative;
+  width: 100%; }
+
+.section-title__number {
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 900;
+  opacity: 0.1;
+  font-size: 286px;
+  display: inline-block;
+  position: absolute; }
+
+.section-title__title {
+  font-weight: 100;
+  font-size: 34.23px;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  display: inline-block;
+  position: absolute; }
